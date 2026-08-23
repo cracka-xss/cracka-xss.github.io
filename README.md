@@ -1,1 +1,0 @@
-# cracka-xss.github.io
